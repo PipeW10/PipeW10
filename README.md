@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @PipeW10
-- 👀 I’m interested in Engineering and Coding
-- 🌱 I’m currently learning Unity
+- 👋 Hi, I’m Felipe Westen (@PipeW10)
+- 👀 I’m currently studying Engineering
 - 📫 How to reach me email
 
 <!---
